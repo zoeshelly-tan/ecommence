@@ -9,8 +9,8 @@
 * [Contact](#Contact)
 * [License](#License)
 ## Project Links
-* [Github Repo](https://github.com/zoeshelly-tan/note_taker)
-* [Heroku link](https://cryptic-gorge-87999.herokuapp.com/)
+* [Github Repo](https://github.com/zoeshelly-tan/ecommence)
+* [Display video](https://drive.google.com/file/d/1KA697-IWhRPFCeDlxBFqYR3e14-hrBEo/view?usp=sharing)
 
 ## Project Objective
 The project is design to build the back end for an e-commerce site by modifying starter code.
